@@ -31,7 +31,7 @@ const Hero = ({ scrollContainer }) => {
       <img className="parallax__frontWithCactus" src="./parallax/one.svg" alt="" />
       <img className="parallax__mountain3" src="./parallax/four.svg" alt="" />
 
-
+      {/* <SpacemanCanvas scrollContainer={scrollContainer} /> */}
     </section>
   );
 };
