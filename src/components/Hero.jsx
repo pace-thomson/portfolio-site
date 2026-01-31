@@ -6,10 +6,10 @@ const Hero = ({ scrollContainer }) => {
     <section className="parallax">
       <div className='parallax__content absolute top-[10%] w-full mx-auto flex flex-col items-start z-10
       sm:top-[16%] 
-
-      lg:top-[20%] lg:pl-[62vh] lg:pr-[59vh] 
+      
+      lg:top-[20%] lg:pl-[40vh] lg:pr-[40vh] 
       xl:pl-96 xl:pr-[44vh] 
-      2xl:pl-[30vh] 2xl:pr-[25vh] 2xl:mr-20 2xl:ml-20'
+      2xl:pl-[20vh] 2xl:pr-[20vh] 2xl:mr-20 2xl:ml-20'
       >
         <div className="flex-1 lg:mb-0">
           <h1 className='fade-in font-medium text-white text-[40px] xs:text-[50px] sm:text-[68px] md:text-[80px] lg:text-[100px] 2xl:text-[140px] leading-[110px] 2xl:leading-[160px]'>
